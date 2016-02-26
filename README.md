@@ -70,7 +70,7 @@ As we collaborate with other people, inevitably they will push some code. The on
 git pull
 ``` 
 
-Again, we can also do this explicitly if need be by adding the remote name and branch as arguments: `git pull origin master`.
+Again, we can also do this explicitly if need be by adding the remote name and branch as arguments: `git pull destination master`.
 
 [For more details, check out the Github guides on pulling](https://help.github.com/articles/fetching-a-remote/)
 
